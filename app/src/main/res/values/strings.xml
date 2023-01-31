@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Consultation Booking System</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Don\'t have an account? <u>Sign up</u></string>
+
+    //Role List
+    <string-array name="role">
+        <item>Lecturer</item>
+        <item>Student</item>
+    </string-array>
+
+    //Filter List
+    <string-array name="filter">
+        <item>Approved</item>
+        <item>Declined</item>
+    </string-array>
+</resources>
